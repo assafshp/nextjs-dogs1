@@ -5,7 +5,7 @@ import { TimeDisplay } from "@/components/TimeDisplay";
 const dogs = [
   {
     name: "Luna",
-    breed: "Golden Retriever",
+    breed: "Golden aaa",
     imageUrl: "https://images.unsplash.com/photo-1633722715463-d30f4f325e24?auto=format&fit=crop&q=80",
     description: "Luna is a friendly and energetic Golden Retriever who loves playing fetch and swimming."
   },
